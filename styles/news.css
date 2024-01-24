@@ -1,0 +1,1242 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.news-8wW {
+  box-sizing: border-box;
+  padding-top: 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.news-8wW .auto-group-1yqk-4KN {
+  margin: 0rem 17rem 2.5rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .image-1-A7W {
+  margin-right: 2.1rem;
+  width: 11.1rem;
+  height: 10.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .aljazeera-Utt {
+  margin: 0rem 4.8rem 0.8rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #efbf14;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .home-xp4 {
+  margin: 0rem 2.85rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .news-TVv {
+  margin: 0rem 0.35rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .vector-Av8 {
+  margin: 0rem 2.049rem 0.6rem 0rem;
+  width: 1.2009rem;
+  height: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .israel-gaza-war-VhW {
+  margin: 0rem 1.5rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .features-CM2 {
+  margin: 0rem 1.45rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .economy-WsW {
+  margin: 0rem 2.6rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .opinion-2L4 {
+  margin: 0rem 1.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .video-Kpx {
+  margin: 0rem 2.75rem 1.1rem 0rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .more-e6Y {
+  margin: 0rem 0.3rem 1.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #150c0c;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .vector-KyN {
+  margin: 0rem 4.198rem 0.7rem 0rem;
+  width: 0.9022rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .vector-2ct {
+  margin: 0rem 0.8rem 0.6rem 0rem;
+  width: 2.1rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .live-9hW {
+  margin: 0rem 3.7rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-1yqk-4KN .vector-s7i {
+  margin-bottom: 0.4rem;
+  width: 2rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-ysf4-Prk {
+  box-sizing: border-box;
+  padding: 2.2rem 11rem 3.4rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #e93a3a;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-ysf4-Prk .breaking-Jip {
+  margin-right: 2.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-ysf4-Prk .line-1-S4L {
+  margin: 0rem 1.55rem 6.3rem 0rem;
+  width: 0.1rem;
+  height: 0.1rem;
+  background-color: #faeded;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-ysf4-Prk .who-chief-raises-concerns-after-israel-forces-raid-northen-gaza-hospital-9jS {
+  margin: 0rem 2.75rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #f6eeee;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-ysf4-Prk .vector-EVz {
+  margin: 0.2rem 2.7rem 0rem 0rem;
+  width: 2.9rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-ysf4-Prk .vector-kUL {
+  margin-top: 0.8rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .news-sYx {
+  margin-right: 8.1rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk {
+  width: 100%;
+  height: 487.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW {
+  width: 130.2rem;
+  height: 46.5rem;
+  position: absolute;
+  left: 3rem;
+  top: 3.4rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-ycuu-3br {
+  width: 68.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-ycuu-3br .image-22-nZS {
+  width: 68.3rem;
+  height: 44.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-ycuu-3br .rectangle-3-ihz {
+  width: 13.6rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 12rem;
+  top: 43.2rem;
+  background-color: #fb8d0b;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe {
+  box-sizing: border-box;
+  padding-left: 3.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-wag6-bWt {
+  margin-right: 1.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-wag6-bWt .image-63-LzG {
+  margin-bottom: 5.5rem;
+  width: 25.6rem;
+  height: 18.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-wag6-bWt .image-61-U4t {
+  width: 25.6rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-dhr8-cB6 {
+  margin-top: 1.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-dhr8-cB6 .dozens-hurt-childrens-hospital-damaged-in-russian-missile-attack-on-kyiv-MeU {
+  margin-bottom: 0.3rem;
+  max-width: 30.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-dhr8-cB6 .officials-warn-number-of-injured-could-rise-after-second-missile-attack-on-ukrainian-capital-this-week-3XJ {
+  margin-bottom: 7.4rem;
+  max-width: 30rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-dhr8-cB6 .zelenskyy-urges-new-ukraine-aid-as-biden-warns-funding-delay-helps-putin-LWQ {
+  margin-bottom: 1.4rem;
+  max-width: 29.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-qe8e-XdW .auto-group-fajp-ebe .auto-group-dhr8-cB6 .ukrainian-president-goes-on-diplomatic-offensive-in-washington-dc-to-try-and-win-over-sceptical-right-wing-republicans-2u2 {
+  max-width: 29.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa {
+  width: 125.4rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 4rem;
+  top: 50.7rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr {
+  max-width: 55.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr-sub-1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr .russia-ukraine-war-list-of-key-events-day-658-as-the-war-enters-658th-daythese-are-the-main-developments-13-dec-2023-Shr-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .auto-group-uqsn-GD2 {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.4rem 15.9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .auto-group-uqsn-GD2 .image-62-z92 {
+  margin-right: 1.9rem;
+  width: 25.6rem;
+  height: 16.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .auto-group-uqsn-GD2 .auto-group-ckdy-Wt4 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .auto-group-uqsn-GD2 .auto-group-ckdy-Wt4 .russia-ukraine-war-list-of-key-events-day-658-gGk {
+  margin-bottom: 2.2rem;
+  max-width: 26.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-gvhc-7fa .auto-group-uqsn-GD2 .auto-group-ckdy-Wt4 .as-the-war-enters-its-658th-day-these-are-the-main-developments-BzC {
+  max-width: 26.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr {
+  width: 131.7rem;
+  height: 63.2rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 80.8rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc {
+  margin-right: 2.8rem;
+  width: 88.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx {
+  width: 100%;
+  height: 28.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx .australia-is-preparing-to-burn-more-fossil-fuels-WQC {
+  width: 55.2rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx .australias-government-struggles-with-climate-contradictions-as-it-commits-to-damaging-fossil-fuel-projects-13-dec-2023-CH2 {
+  width: 51.9rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 11.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx .australias-government-struggles-with-climate-contradictions-as-it-commits-to-damaging-fossil-fuel-projects-13-dec-2023-CH2 .australias-government-struggles-with-climate-contradictions-as-it-commits-to-damaging-fossil-fuel-projects-13-dec-2023-CH2-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx .australias-government-struggles-with-climate-contradictions-as-it-commits-to-damaging-fossil-fuel-projects-13-dec-2023-CH2 .australias-government-struggles-with-climate-contradictions-as-it-commits-to-damaging-fossil-fuel-projects-13-dec-2023-CH2-sub-1 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx .image-64-HSt {
+  width: 23.4rem;
+  height: 16.1rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 4.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-qt5c-ZUx .line-16-oRE {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 27.9rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g {
+  box-sizing: border-box;
+  padding-top: 2.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .image-66-rPW {
+  width: 16.8rem;
+  height: 2.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 {
+  margin: 0rem 2.4rem 0rem 0.8rem;
+  width: calc(100% - 3.2rem);
+  height: 28.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 .auto-group-djrv-ucg {
+  margin-right: 7.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 .auto-group-djrv-ucg .un-votes-for-gaza-ceasefire-biden-says-israel-losing-support-for-war-rH2 {
+  margin-bottom: 0.4rem;
+  max-width: 51.8rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 .auto-group-djrv-ucg .un-general-assembly-passes-non-binding-motion-demanding-end-to-israeli-war-on-gaza-as-humanitarian-crisis-worsens-13-dec-2023-91E {
+  max-width: 53.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 .auto-group-djrv-ucg .un-general-assembly-passes-non-binding-motion-demanding-end-to-israeli-war-on-gaza-as-humanitarian-crisis-worsens-13-dec-2023-91E .un-general-assembly-passes-non-binding-motion-demanding-end-to-israeli-war-on-gaza-as-humanitarian-crisis-worsens-13-dec-2023-91E-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 .auto-group-djrv-ucg .un-general-assembly-passes-non-binding-motion-demanding-end-to-israeli-war-on-gaza-as-humanitarian-crisis-worsens-13-dec-2023-91E .un-general-assembly-passes-non-binding-motion-demanding-end-to-israeli-war-on-gaza-as-humanitarian-crisis-worsens-13-dec-2023-91E-sub-1 {
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-jden-cpc .auto-group-8hxa-K8g .auto-group-uoca-bM6 .image-65-ecC {
+  margin-bottom: 4.4rem;
+  width: 24.3rem;
+  height: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc {
+  margin: 9.3rem 0rem 6.8rem 0rem;
+  width: 40.3rem;
+  height: calc(100% - 16.1rem);
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 1.8rem 5.6rem 2.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8eded;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ssgj-bvk {
+  margin: 0rem 0rem 3.5rem 2.6rem;
+  width: 33.3rem;
+  height: 9.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ssgj-bvk .sign-up-for-al-jazeera-8fn {
+  width: 19.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ssgj-bvk .week-in-the-middle-east-Eyi {
+  width: 33.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 3.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .catch-up-on-our-coverage-of-the-region-all-in-one-place-wdE {
+  margin: 0rem 4.6rem 1.6rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-hcja-qic {
+  margin: 0rem 1.9rem 2.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2rem;
+  width: 34rem;
+  height: 4.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #beb6b6;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #f5f5f5;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ejzq-fxY {
+  margin: 0rem 12.1rem 4.5rem 10.3rem;
+  width: calc(100% - 22.4rem);
+  height: 4.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ejzq-fxY .rectangle-6-apc {
+  width: 13.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #000000;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ejzq-fxY .sign-up-L36 {
+  width: 8.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #fffdfd;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ygdk-dnt {
+  margin-right: 9.7rem;
+  width: calc(100% - 9.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ygdk-dnt .by-signing-up-you-agree-to-our-aTE {
+  margin-right: 1.6rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .auto-group-ss7t-uHE .auto-group-ygdk-dnt .privacy-policy-Vq6 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-1eqe-hBr .auto-group-bdjl-nCc .protected-by-recaptcha-Dm6 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-j1sn-M6c {
+  width: 85.4rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 3rem;
+  top: 147.5rem;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-j1sn-M6c .un-general-assembly-votes-overwhelmingly-in-favour-of-gaza-ceasefire-sqe {
+  width: 57.4rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-j1sn-M6c .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-ZyN {
+  width: 61.2rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 0;
+  top: 12.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-j1sn-M6c .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-ZyN .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-ZyN-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-j1sn-M6c .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-ZyN .the-us-and-israel-were-among-the-few-votes-against-the-non-binding-resolution-calling-for-an-end-to-the-fighting-12-dec-2023-ZyN-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-j1sn-M6c .image-67-Ey2 {
+  width: 24.3rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY {
+  width: 86.2rem;
+  height: 28.8rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 176rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY .auto-group-rt8n-u3a {
+  margin-right: 1.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY .auto-group-rt8n-u3a .uks-sunak-wins-parliament-vote-on-deporting-asylum-seekers-to-rwanda-rDi {
+  margin: 0rem 0rem 0.2rem 0.8rem;
+  max-width: 59.8rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY .auto-group-rt8n-u3a .sunak-faces-down-conservative-party-rebels-by-winning-a-knife-edge-vote-on-his-latest-plans-to-send-refugees-and-migrants-to-rwanda-12-dec-2023-jYQ {
+  max-width: 57.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY .auto-group-rt8n-u3a .sunak-faces-down-conservative-party-rebels-by-winning-a-knife-edge-vote-on-his-latest-plans-to-send-refugees-and-migrants-to-rwanda-12-dec-2023-jYQ .sunak-faces-down-conservative-party-rebels-by-winning-a-knife-edge-vote-on-his-latest-plans-to-send-refugees-and-migrants-to-rwanda-12-dec-2023-jYQ-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY .auto-group-rt8n-u3a .sunak-faces-down-conservative-party-rebels-by-winning-a-knife-edge-vote-on-his-latest-plans-to-send-refugees-and-migrants-to-rwanda-12-dec-2023-jYQ .sunak-faces-down-conservative-party-rebels-by-winning-a-knife-edge-vote-on-his-latest-plans-to-send-refugees-and-migrants-to-rwanda-12-dec-2023-jYQ-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-dquw-NJY .image-68-PWU {
+  margin-top: 0.4rem;
+  width: 24.3rem;
+  height: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 {
+  width: 84.9rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 208.5rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 .auto-group-lfne-FYg {
+  margin-right: 3.5rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 .auto-group-lfne-FYg .biden-warns-israel-risks-losing-support-over-indiscriminate-gaza-bombing-c8L {
+  margin-bottom: 1.4rem;
+  max-width: 57.1rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 .auto-group-lfne-FYg .us-president-offers-his-sharpest-public-criticism-of-israel-since-the-start-of-its-war-with-hamas-12-dec-2023-trY {
+  max-width: 57rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 .auto-group-lfne-FYg .us-president-offers-his-sharpest-public-criticism-of-israel-since-the-start-of-its-war-with-hamas-12-dec-2023-trY .us-president-offers-his-sharpest-public-criticism-of-israel-since-the-start-of-its-war-with-hamas-12-dec-2023-trY-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 .auto-group-lfne-FYg .us-president-offers-his-sharpest-public-criticism-of-israel-since-the-start-of-its-war-with-hamas-12-dec-2023-trY .us-president-offers-his-sharpest-public-criticism-of-israel-since-the-start-of-its-war-with-hamas-12-dec-2023-trY-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-daxq-KQ8 .image-69-Rjz {
+  margin-bottom: 0.5rem;
+  width: 24.3rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde {
+  width: 85.1rem;
+  height: 20.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 238.8rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde .auto-group-jq5x-UyA {
+  margin-right: 2.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde .auto-group-jq5x-UyA .harvard-president-claudine-gay-keeps-job-dbA {
+  margin-bottom: 1.8rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde .auto-group-jq5x-UyA .harvards-president-claudine-gay-has-received-unanimous-support-from-the-university-board-to-remain-in-her-role-12-dec-2023-x7e {
+  margin-left: 0.1rem;
+  max-width: 58.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde .auto-group-jq5x-UyA .harvards-president-claudine-gay-has-received-unanimous-support-from-the-university-board-to-remain-in-her-role-12-dec-2023-x7e .harvards-president-claudine-gay-has-received-unanimous-support-from-the-university-board-to-remain-in-her-role-12-dec-2023-x7e-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde .auto-group-jq5x-UyA .harvards-president-claudine-gay-has-received-unanimous-support-from-the-university-board-to-remain-in-her-role-12-dec-2023-x7e .harvards-president-claudine-gay-has-received-unanimous-support-from-the-university-board-to-remain-in-her-role-12-dec-2023-x7e-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-5mwu-Mde .image-70-55n {
+  margin-top: 0.9rem;
+  width: 24.3rem;
+  height: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC {
+  width: 84.2rem;
+  height: 29.5rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 266rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC .auto-group-j1ee-L1i {
+  margin-right: 2.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC .auto-group-j1ee-L1i .clear-threat-kashmiris-on-india-top-court-upholding-removal-of-autonomy-g5a {
+  margin-bottom: 0.9rem;
+  max-width: 54.4rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC .auto-group-j1ee-L1i .for-the-residents-fears-of-demographic-change-triggered-by-modi-governments-2019-move-are-slowly-becoming-a-reality-12-dec-2023-m72 {
+  margin-left: 0.2rem;
+  max-width: 57.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC .auto-group-j1ee-L1i .for-the-residents-fears-of-demographic-change-triggered-by-modi-governments-2019-move-are-slowly-becoming-a-reality-12-dec-2023-m72 .for-the-residents-fears-of-demographic-change-triggered-by-modi-governments-2019-move-are-slowly-becoming-a-reality-12-dec-2023-m72-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC .auto-group-j1ee-L1i .for-the-residents-fears-of-demographic-change-triggered-by-modi-governments-2019-move-are-slowly-becoming-a-reality-12-dec-2023-m72 .for-the-residents-fears-of-demographic-change-triggered-by-modi-governments-2019-move-are-slowly-becoming-a-reality-12-dec-2023-m72-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-78kx-CgC .image-71-FRW {
+  margin-bottom: 4.9rem;
+  width: 24.3rem;
+  height: 16.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 {
+  width: 85.7rem;
+  height: 28.5rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 297.3rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 .auto-group-g12n-Jua {
+  margin-right: 2.4rem;
+  width: 57.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 .auto-group-g12n-Jua .us-announces-hundreds-of-new-sanctions-in-push-to-isolate-russia-3sA {
+  width: 57.1rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 .auto-group-g12n-Jua .new-sanctions-target-entities-and-individuals-around-the-world-in-bid-to-isolate-russia-as-its-war-on-ukraine-continues-12-dec-2023-whe {
+  width: 57.3rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 11.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 .auto-group-g12n-Jua .new-sanctions-target-entities-and-individuals-around-the-world-in-bid-to-isolate-russia-as-its-war-on-ukraine-continues-12-dec-2023-whe .new-sanctions-target-entities-and-individuals-around-the-world-in-bid-to-isolate-russia-as-its-war-on-ukraine-continues-12-dec-2023-whe-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 .auto-group-g12n-Jua .new-sanctions-target-entities-and-individuals-around-the-world-in-bid-to-isolate-russia-as-its-war-on-ukraine-continues-12-dec-2023-whe .new-sanctions-target-entities-and-individuals-around-the-world-in-bid-to-isolate-russia-as-its-war-on-ukraine-continues-12-dec-2023-whe-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jk9y-Ba4 .image-72-3PJ {
+  margin-bottom: 0.7rem;
+  width: 26rem;
+  height: 18.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE {
+  width: 86.5rem;
+  height: 28.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 328rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE .auto-group-kdee-uwJ {
+  margin-right: 1.3rem;
+  width: 59.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE .auto-group-kdee-uwJ .cop28-climate-talks-go-into-overtime-amid-standoff-over-fossil-fuels-2m2 {
+  width: 55rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE .auto-group-kdee-uwJ .a-flurry-of-shuttle-diplomacy-is-under-way-at-the-un-led-negotiations-in-the-uae-as-countries-fight-over-the-wording-of-a-potential-deal-12-dec-2023-Ww6 {
+  width: 59.8rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 10.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE .auto-group-kdee-uwJ .a-flurry-of-shuttle-diplomacy-is-under-way-at-the-un-led-negotiations-in-the-uae-as-countries-fight-over-the-wording-of-a-potential-deal-12-dec-2023-Ww6 .a-flurry-of-shuttle-diplomacy-is-under-way-at-the-un-led-negotiations-in-the-uae-as-countries-fight-over-the-wording-of-a-potential-deal-12-dec-2023-Ww6-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE .auto-group-kdee-uwJ .a-flurry-of-shuttle-diplomacy-is-under-way-at-the-un-led-negotiations-in-the-uae-as-countries-fight-over-the-wording-of-a-potential-deal-12-dec-2023-Ww6 .a-flurry-of-shuttle-diplomacy-is-under-way-at-the-un-led-negotiations-in-the-uae-as-countries-fight-over-the-wording-of-a-potential-deal-12-dec-2023-Ww6-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-wvqe-aPE .image-73-Znt {
+  margin-bottom: 0.9rem;
+  width: 25.4rem;
+  height: 19rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 {
+  width: 84.5rem;
+  height: 28.3rem;
+  position: absolute;
+  left: 4rem;
+  top: 359.3rem;
+  display: flex;
+  align-items: center;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 .auto-group-vdhx-cmA {
+  margin-right: 5.9rem;
+  width: 51.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 .auto-group-vdhx-cmA .ukraines-zelenskyy-arrives-in-the-us-whats-on-the-agenda-xa8 {
+  width: 48.6rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 .auto-group-vdhx-cmA .the-ukrainian-president-is-trying-to-help-break-a-us-domestic-political-deadlock-that-would-deprive-his-country-of-war-funding-12-dec-2023-ehr {
+  width: 51.4rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 11rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 .auto-group-vdhx-cmA .the-ukrainian-president-is-trying-to-help-break-a-us-domestic-political-deadlock-that-would-deprive-his-country-of-war-funding-12-dec-2023-ehr .the-ukrainian-president-is-trying-to-help-break-a-us-domestic-political-deadlock-that-would-deprive-his-country-of-war-funding-12-dec-2023-ehr-sub-0 {
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 .auto-group-vdhx-cmA .the-ukrainian-president-is-trying-to-help-break-a-us-domestic-political-deadlock-that-would-deprive-his-country-of-war-funding-12-dec-2023-ehr .the-ukrainian-president-is-trying-to-help-break-a-us-domestic-political-deadlock-that-would-deprive-his-country-of-war-funding-12-dec-2023-ehr-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #000000;
+  font-family: Cairo, 'Source Sans Pro';
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-vld4-6H2 .image-74-Jvp {
+  margin-bottom: 0.2rem;
+  width: 27.2rem;
+  height: 20.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.news-8wW .auto-group-4wmg-bzk .line-17-SGL {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 144.5932rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-18-y1N {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 174.2rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-19-J3e {
+  width: 88.6001rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 204.8149rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-20-png {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 236.8rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-21-MGp {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 263.4rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-22-HRN {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 296.2rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-23-cyS {
+  width: 88.5999rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 327.5932rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-24-MRE {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 357.4rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .line-25-tRA {
+  width: 89.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 390.2rem;
+  background-color: #bcacac;
+}
+.news-8wW .auto-group-4wmg-bzk .auto-group-jxke-pZi {
+  box-sizing: border-box;
+  padding: 0.2rem 9.5rem 0.2rem 9rem;
+  width: 33.9rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 30.2rem;
+  top: 395.8rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.8725;
+  color: #fffdfd;
+  font-family: Cairo, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #000000;
+}
+.news-8wW .auto-group-4wmg-bzk .image-59-snt {
+  width: 142.1rem;
+  height: 64.2rem;
+  position: absolute;
+  left: 0;
+  top: 423.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
